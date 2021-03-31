@@ -1,0 +1,33 @@
+{
+  "name": "letsplaybingo",
+  "version": "3.0.0",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.12.2",
+    "rc-slider": "^9.2.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.4.1",
+    "react-select": "^3.1.0",
+    "sass": "^1.26.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
